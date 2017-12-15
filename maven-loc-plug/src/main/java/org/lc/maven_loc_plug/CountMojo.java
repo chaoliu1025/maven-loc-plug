@@ -14,7 +14,7 @@ import org.apache.maven.plugin.MojoFailureException;
 /**
  * 
  * @ goal count
- * warn:标注已经不用写在注释中了，直接使用注解即可
+ * 使用org.apache.maven.plugin-tools 插件 标注可以不用写在注释中
  * @author lc
  *
  */
