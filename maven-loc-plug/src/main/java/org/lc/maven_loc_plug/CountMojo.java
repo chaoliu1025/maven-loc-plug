@@ -14,9 +14,8 @@ import org.apache.maven.plugin.MojoFailureException;
 /**
  * 
  * @ goal count
- * 
+ * warn:标注已经不用写在注释中了，直接使用注解即可
  * @author lc
- * @param <Resource>
  *
  */
 public class CountMojo extends AbstractMojo{
